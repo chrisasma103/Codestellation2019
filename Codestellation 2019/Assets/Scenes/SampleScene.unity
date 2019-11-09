@@ -145,7 +145,7 @@ PrefabInstance:
     - target: {fileID: 1140737167968291282, guid: 78d1b6d15c392a64497fa23979265696,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10
+      value: 9.9
       objectReference: {fileID: 0}
     - target: {fileID: 1140737167968291282, guid: 78d1b6d15c392a64497fa23979265696,
         type: 3}
@@ -204,7 +204,7 @@ PrefabInstance:
     - target: {fileID: 1140737167968291282, guid: 78d1b6d15c392a64497fa23979265696,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1140737167968291282, guid: 78d1b6d15c392a64497fa23979265696,
         type: 3}
@@ -680,6 +680,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 84c8b8609f9bb434eaf5248f17ff1293, type: 3}
+--- !u!1 &2118732702 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd,
+    type: 3}
+  m_PrefabInstance: {fileID: 1091743165}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &2118732708
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118732702}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 03902d0b450add74fa144e9510fd0f85, type: 2}
 --- !u!1001 &1140737169033878598
 PrefabInstance:
   m_ObjectHideFlags: 0
